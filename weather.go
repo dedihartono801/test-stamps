@@ -45,6 +45,7 @@ func main() {
 
 	forecastedDays := map[string]bool{} // To avoid duplicate days
 
+	fmt.Println("Weather Forecast:")
 	for _, weather := range weatherResponse.List {
 		// Convert the UNIX timestamp to a readable date format
 		forecastTime := time.Unix(weather.Dt, 0)
