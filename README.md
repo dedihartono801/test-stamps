@@ -4,7 +4,7 @@
 $ go run foobar.go
 ```
 
-![alt text](https://github.com/dedihartono801/test-stamps/foobar.png)
+![alt text](https://github.com/dedihartono801/test-stamps/blob/master/foobar.png)
 
 ## Run Weather
 
@@ -12,4 +12,4 @@ $ go run foobar.go
 $ go run weather.go
 ```
 
-![alt text](https://github.com/dedihartono801/test-stamps/weather.png)
+![alt text](https://github.com/dedihartono801/test-stamps/blob/master/weather.png)
